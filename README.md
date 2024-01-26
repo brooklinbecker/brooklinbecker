@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @brooklinbecker
+- 👀 I’m interested in technofeminism, data humanism, and embodiment in today's cyborg century.
+- 🌱 I’m currently learning Python, R, and qualitative and quantitative data research and analysis.
+- 💞️ I’m looking to collaborate on research projects and data analysis projects which relate to parental grief and grieving in general.
+
+<!---
+brooklinbecker/brooklinbecker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
