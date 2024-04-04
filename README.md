@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning Python, R, and how to coduct qualitative and quantitative data research and analysis.
 
-💞️ I’m looking to collaborate on research projects and data analysis projects which relate to parental grief and grieving in general.
+💞️ I’m looking to collaborate on research and data analysis projects which relate to parental grief and grieving in general.
 
 <!---
 brooklinbecker/brooklinbecker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
