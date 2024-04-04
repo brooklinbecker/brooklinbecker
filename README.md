@@ -1,4 +1,4 @@
-👋 Hi, I’m @brooklinbecker. I am a student at the University of Toronto pursuing my Bachelor's with the Faculty of Information.
+👋 Hi, I’m @brooklinbecker.
 
 👀 I’m interested in performative architecture, data humanism, and technofeminism and embodiment in today's cyborg century.
 
